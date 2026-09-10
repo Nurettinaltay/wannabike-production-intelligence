@@ -100,6 +100,19 @@ Getting the grain right — one fact table per work order, one per operation ste
 ## Tech stack
 
 `Databricks` · `PySpark` · `Delta Lake` · `Unity Catalog` · `Spark ML` · `MLflow` · `Databricks Genie` · `Power BI` · `DAX`
+## Screenshots
+
+**Orchestration — full pipeline run**
+![Job pipeline](docs/screenshots/job_pipeline.png)
+
+**Unity Catalog lineage**
+![Catalog lineage](docs/screenshots/catalog_lineage.png)
+
+**Genie — natural language query**
+![Genie answer](docs/screenshots/genie_answer.png)
+
+**MLflow — model run metrics**
+![MLflow metrics](docs/screenshots/mlflow_metrics.png)
 
 ## Repository structure
 
