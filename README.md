@@ -122,8 +122,8 @@ notebooks/
 ├── 01_bronze_ingestion.py       CSV -> Bronze Delta tables
 ├── 02_silver_cleaning.py        Typing, cleaning, validation
 ├── 03_gold_star_schema.py       Dimensions + fact_workorder + constraints
-├── gold_fact_routing.py         fact_routing (operation-step grain)
-└── 04_ml_late_delivery.py       Feature engineering, GBTClassifier, MLflow logging
+├── 04_ml_late_delivery.py       Feature engineering, GBTClassifier, MLflow logging 
+└── fact_routing.py              fact_routing (operation-step grain)
 
 docs/
 ├── findings.md                  Full analysis write-up (data quality, root cause, ML results)
