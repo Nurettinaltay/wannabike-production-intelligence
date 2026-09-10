@@ -132,7 +132,6 @@ docs/
     ├── genie_answer.png         Genie natural-language query example
     └── mlflow_metrics.png       MLflow experiment run / model metrics
 
-dashboard/
 └── WannaBike_Production_Databricks.pdf   Power BI dashboard export
 ```
 
